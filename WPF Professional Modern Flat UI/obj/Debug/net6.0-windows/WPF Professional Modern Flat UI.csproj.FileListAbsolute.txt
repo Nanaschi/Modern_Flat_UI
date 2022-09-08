@@ -1,0 +1,22 @@
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\bin\Debug\net6.0-windows\WPF Professional Modern Flat UI.exe
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\bin\Debug\net6.0-windows\WPF Professional Modern Flat UI.deps.json
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\bin\Debug\net6.0-windows\WPF Professional Modern Flat UI.runtimeconfig.json
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\bin\Debug\net6.0-windows\WPF Professional Modern Flat UI.dll
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\bin\Debug\net6.0-windows\WPF Professional Modern Flat UI.pdb
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.csproj.AssemblyReference.cache
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI_MarkupCompile.cache
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI_MarkupCompile.lref
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.g.resources
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.AssemblyInfoInputs.cache
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.AssemblyInfo.cs
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.csproj.CoreCompileInputs.cache
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.dll
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\refint\WPF Professional Modern Flat UI.dll
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.pdb
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\WPF Professional Modern Flat UI.genruntimeconfig.cache
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\ref\WPF Professional Modern Flat UI.dll
+C:\Users\mi\RiderProjects\WPF Professional Modern Flat UI\WPF Professional Modern Flat UI\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
